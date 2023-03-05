@@ -9,13 +9,17 @@
 
 # **상세 보기**
 ## **Project 1**
-  * **프로젝트명 : 아이디 생성기 만들기**
-  * 사용 함수 : `input()`, `while`, `if`
-  * 설명 : 대화형 코딩 연습, 3가지의 질문을 통해 아이디를 추천하는 프로그램을 만든다.
-  <details>
-  <summary>Ouptut</summary>
-  <div markdown="1">
-  <img src="images/project1.png" width="70%"/>
-  </div>
-  </details>
-    
+  * **프로젝트명 : 아이디 생성기 만들기** (<a href="codes/Project1.py">코드 이동</a>)
+  * 사용 함수 : `input`, `while`, `if`
+  * 학습목표 : 대화형 코딩, 3가지의 질문을 통해 아이디를 추천하는 프로그램을 만든다.
+  * 상세 설명
+    * STEP1. 3가지 질문에 대한 input을 받는다.
+    * STEP2. while, if 문을 사용하여 사용자의 선택에 따라 반복 여부를 결정하도록 한다.
+    * STEP3. 잘못 입력받았을 경우 제대로 입력될 때까지 반복되도록 while 무한루프를 사용한다. 
+    <details>
+      <summary>결과 보기</summary>
+      <div markdown="1">
+      <img src="images/project1.png" width="70%"/>
+      </div>
+    </details>
+      
