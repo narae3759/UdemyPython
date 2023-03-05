@@ -15,7 +15,7 @@
   <details>
   <summary>Ouptut</summary>
   <div markdown="1">
-  <img src="images/project1.png"/>
+  <img src="images/project1.png" width="70%"/>
   </div>
   </details>
     
