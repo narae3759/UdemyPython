@@ -1,2 +1,7 @@
-# UdemyPython
-Python mini project
+# **강의명: Python 부트캠프 : 100개의 프로젝트로 Python 개발 완전 정복**
+
+# **학습 목표**
+* Python의 주요 내용 정리
+* 100개의 Python과 관련한 다양한 프로젝트 실습
+
+# **진행 상황**
