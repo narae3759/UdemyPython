@@ -46,9 +46,7 @@
   * **프로젝트명 : 개복치 키우기 게임** (<a href="codes/project3.py">코드 이동</a>)
   * 사용 함수 : `input`, `while`, `if`, `lower`
   * 학습목표 : 대화형 코딩, 대문자 소문자에 관계없이 입력받았을 때 조건문에 따라 게임의 성공/실패를 결정할 수 있다.
-  * 상세 설명
-  <img src="images/project3-1.png"/>
-  
+  * 상세 설명 <img src="images/project3-1.png"/>
     * STEP1. 게임을 꾸미기 위해 [ASCII ART](https://ascii.co.uk/art/fish)를 참고하여 물고기를 표현한다.
     * STEP2. 개복치가 죽었을 때에 죽은 물고기를 표현하도록 dead() 함수를 만든다.
     * STEP3. 순서도에 따라 결정 사항을 input 받는다.
