@@ -1,7 +1,11 @@
 run = ""
 # The primary language of the repl. There can be others, though!
 language = "python3"
+<<<<<<< HEAD
 entrypoint = "codes/project3.py"
+=======
+entrypoint = "codes/project2.py"
+>>>>>>> 28f4f99203545560c3db1ea47e64e661f6eb6569
 # A list of globs that specify which files and directories should
 # be hidden in the workspace.
 hidden = ["venv", ".config", "**/__pycache__", "**/.mypy_cache", "**/*.pyc"]
